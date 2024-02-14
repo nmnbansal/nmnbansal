@@ -31,7 +31,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=nmnbansal&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nmnbansal&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nmnbansal&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<div>
+  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nmnbansal&theme=github_dark" alt="nmnbansal" align = "center"/></p>
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nmnbansal&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 

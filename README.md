@@ -35,6 +35,7 @@
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nmnbansal&theme=github_dark" alt="nmnbansal" align = "center"/></p>
 </div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nmnbansal&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 

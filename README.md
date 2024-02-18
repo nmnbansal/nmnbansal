@@ -6,7 +6,7 @@
  
   <img align="right" src="https://github.com/Abhikarnwal/Abhikarnwal/blob/main/screen%20open%20(1).gif" height="400" width="400" />
  
- <br>💼 My Portfolio https://nmnbansal.github.io/ <br><br>🔭 I’m currently working on Full Stack Project<br><br>👯 I’m looking to collaborate on Front-End and Back-End Project<br><br>🤝 I’m open to work.<br><br>🌱 I’m currently learning MERN & Data Structure and Algorithms<br><br>💬 Ask me about JavaScript and MERN Stack<br><br>⚡ Fun fact: The first computer mouse was made out of wood? <br>  In 1964, Douglas Engelbart invented the first prototype of the  <br> computer mouse, which was made out of wood and had two wheels.<br>
+ 💼 My Portfolio https://nmnbansal.github.io/ <br><br>🔭 I’m currently working on Full Stack Project<br><br>👯 I’m looking to collaborate on Front-End and Back-End Project<br><br>🤝 I’m open to work.<br><br>🌱 I’m currently learning MERN & Data Structure and Algorithms<br><br>💬 Ask me about JavaScript and MERN Stack<br><br>⚡ Fun fact: The first computer mouse was made out of wood? <br>  In 1964, Douglas Engelbart invented the first prototype of the  <br> computer mouse, which was made out of wood and had two wheels.<br>
   
 
 - 🤝 Group Project 1 [FIGMA](https://legendary-malabi-cfb639.netlify.app/)
